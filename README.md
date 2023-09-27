@@ -63,3 +63,27 @@ Maven se incorporó a NetBeans en la versión 6.7 de NetBeans.
 [![Captura-de-pantalla-2023-09-27-001512.png](https://i.postimg.cc/262DXZD2/Captura-de-pantalla-2023-09-27-001512.png)](https://postimg.cc/1nn2844q)
 
 
+## Añadir dependencias
+
+Para agregar dependencias a un proyecto Maven en NetBeans, sigue estos pasos:
+
+1. Abre tu proyecto en NetBeans o crea uno nuevo utilizando el asistente de proyectos Maven.
+
+2. En el explorador de proyectos (ventana izquierda), busca y expande la carpeta "Dependencias" o "Libraries" (dependiendo de la versión de NetBeans que estés utilizando).
+
+3. Haz clic derecho sobre la carpeta "Dependencias" y selecciona "Agregar dependencia" o "Add Dependency". Esto abrirá el asistente para agregar dependencias.
+
+4. En el asistente para agregar dependencias, puedes buscar las dependencias que deseas agregar en el repositorio central de Maven o puedes proporcionar manualmente la información de la dependencia, incluyendo el Grupo (Group ID) y el Artefacto (Artifact ID).
+
+   - Si buscas en el repositorio central, puedes escribir el nombre de la dependencia en el campo de búsqueda y seleccionarla de la lista de resultados.
+
+   - Si proporcionas la información manualmente, asegúrate de especificar el Grupo y el Artefacto de la dependencia. Estos valores son únicos y se utilizan para identificar la dependencia en el repositorio Maven. También puedes especificar la versión de la dependencia si deseas una versión específica.
+
+5. Haz clic en "OK" o "Finalizar" para agregar la dependencia a tu proyecto.
+
+6. NetBeans descargará automáticamente la dependencia desde el repositorio central de Maven y la agregará a tu proyecto. Puedes ver las dependencias agregadas en la carpeta "Dependencias" en el explorador de proyectos.
+
+7. Ahora puedes utilizar las clases y recursos proporcionados por la dependencia en tu proyecto.
+
+Recuerda que NetBeans manejará automáticamente la gestión de dependencias y las descargas desde el repositorio central de Maven. Si deseas personalizar aún más la configuración de tu proyecto Maven, como la configuración de plugins o perfiles, puedes hacerlo a través del archivo `pom.xml` que se encuentra en la raíz de tu proyecto.
+
