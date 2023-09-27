@@ -55,3 +55,6 @@ Maven se incorporó a NetBeans en la versión 6.7 de NetBeans.
 - En el asistente de nuevo proyecto, selecciona "Maven" en la categoría "Proyectos" (Projects) y elige "Proyecto Maven" (Maven Project). Haz clic en "Siguiente".
 - Selecciona el tipo de proyecto Maven que desees crear (por ejemplo,"ProyectoJava" o "ProyectoWeb"). Haz clic en "Siguiente".
 - Completa la configuración del proyecto, como el Grupo de artefactos (Group ID) y el ID de artefacto (Artifact ID). Luego, haz clic en "Finalizar".
+
+[![Captura-de-pantalla-2023-09-27-001349.png](https://i.postimg.cc/HLXKyCKH/Captura-de-pantalla-2023-09-27-001349.png)](https://postimg.cc/676zkFt1)
+
