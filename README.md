@@ -48,7 +48,7 @@ Nota:
 Al instalar Apache Netbeans por defecto se instala Maven.
 Maven se incorporó a NetBeans en la versión 6.7 de NetBeans. 
 
-## 3.2 Crear un proyecto Maven en NetBeans:
+## Crear un proyecto Maven en NetBeans:
 
 - Abre NetBeans.
 - Ve a "Archivo" (File) en la barra de menú y selecciona "Nuevo Proyecto" (New Project).
@@ -57,4 +57,9 @@ Maven se incorporó a NetBeans en la versión 6.7 de NetBeans.
 - Completa la configuración del proyecto, como el Grupo de artefactos (Group ID) y el ID de artefacto (Artifact ID). Luego, haz clic en "Finalizar".
 
 [![Captura-de-pantalla-2023-09-27-001349.png](https://i.postimg.cc/HLXKyCKH/Captura-de-pantalla-2023-09-27-001349.png)](https://postimg.cc/676zkFt1)
+
+[![Captura-de-pantalla-2023-09-27-001309.png](https://i.postimg.cc/NfVgcmrn/Captura-de-pantalla-2023-09-27-001309.png)](https://postimg.cc/TpV8jy0j)
+
+[![Captura-de-pantalla-2023-09-27-001512.png](https://i.postimg.cc/262DXZD2/Captura-de-pantalla-2023-09-27-001512.png)](https://postimg.cc/1nn2844q)
+
 
