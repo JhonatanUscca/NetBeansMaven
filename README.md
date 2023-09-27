@@ -87,3 +87,10 @@ Para agregar dependencias a un proyecto Maven en NetBeans, sigue estos pasos:
 
 Recuerda que NetBeans manejará automáticamente la gestión de dependencias y las descargas desde el repositorio central de Maven. Si deseas personalizar aún más la configuración de tu proyecto Maven, como la configuración de plugins o perfiles, puedes hacerlo a través del archivo `pom.xml` que se encuentra en la raíz de tu proyecto.
 
+
+[![Captura-de-pantalla-2023-09-27-002411.png](https://i.postimg.cc/CxJPfTjn/Captura-de-pantalla-2023-09-27-002411.png)](https://postimg.cc/LJYBrWQm)
+
+[![Captura-de-pantalla-2023-09-27-005233.png](https://i.postimg.cc/RZ01y3Hq/Captura-de-pantalla-2023-09-27-005233.png)](https://postimg.cc/7fpTTZXy)
+
+
+
