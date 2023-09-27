@@ -1,4 +1,4 @@
-# NetBeansMaven
+# NetBeans (Maven)
 
 IDE: Apache NetBeans
 Herramienta de construcción automática: Maven
