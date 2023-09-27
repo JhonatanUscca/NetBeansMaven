@@ -1,7 +1,7 @@
 # NetBeans (Maven)
 
-- IDE: Apache NetBeans
-- Herramienta de construcción automática: Maven
+- IDE: Apache NetBeans.
+- Herramienta de construcción automática: Maven.
 
 
 ## Instalación de Apache NetBeans.
