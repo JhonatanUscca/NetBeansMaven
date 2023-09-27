@@ -16,6 +16,12 @@
     
     <dependencies>
         <dependency>
+            <groupId>com.craterdog.maven-parent-poms</groupId>
+            <artifactId>java-web-service</artifactId>
+            <version>3.21</version>
+            <type>pom</type>
+        </dependency>
+        <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
             <version>7.0</version>
